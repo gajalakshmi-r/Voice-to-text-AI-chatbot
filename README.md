@@ -1,0 +1,1 @@
+A voice-to-text AI chatbot that allows users to interact with a chatbot using speech. The chatbot converts speech into text and responds with intelligent, context-aware replies using natural language processing (NLP) techniques. This project leverages popular speech-to-text APIs and AI-based language models to provide a seamless conversational experience.
